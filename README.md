@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning mobile app development with Flutter.
+Flutter developer. Currently learning Django.
 
 
 ## 🌐 Socials:
