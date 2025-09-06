@@ -7,7 +7,7 @@ I'm a passionate application developer and I use Flutter as my main framework. I
 - Flutter is the main framework I use to develop apps
 - Familiar with Material Design 3 & responsive design principles 
 - I can connect apps seamlessly to RESTful APIs
-- Strong knowledge of state management in Flutter using Provider and BloC
+- Strong knowledge of state management in Flutter using Provider, BloC and GetX
 
 ### 🌱 Currently Growing In
 - Deepening my knowledge of Flutter best practices
