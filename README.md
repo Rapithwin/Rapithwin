@@ -1,25 +1,26 @@
-# 💫 About Me:
+# About Me:
 I'm a passionate software developer and I use Flutter as my main framework. I also enjoy writing fun little scripts using Python from time to time.
 <br/>
 
-### 🛠 Skills
-- I know Dart, Python, and a bit of JavaScript
+### Skills
+- I know Dart, Python, HTML, CSS and JavaScript
 - Flutter is the main framework I use to develop apps
-- Familiar with Material Design 3 & responsive design principles 
+- Familiar with Material Design 3 & responsive design principles
+- Familiar with plarform channels and writing custom platform specific code using Kotlin and Swift
 - I can connect apps seamlessly to RESTful APIs
 - Strong knowledge of state management in Flutter using Provider, BloC and GetX
 
-### 🌱 Currently Growing In
+### Currently Growing In
 - Deepening my knowledge of Flutter best practices
 - Exploring complex animations in Flutter
 - Expanding my knowledge on UI/UX design and Material 3
 - Web and PWA development with React and Flutter
 
-# 🌐 Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir_hkhn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20213881) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rapithwin)
 [![X](https://img.shields.io/badge/Telegram-%2329a9eb?logo=Telegram&logoColor=white)](https://t.me/Amirhkhn)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23e34c26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%23264de4.svg?style=for-the-badge&logo=css&logoColor=white)
