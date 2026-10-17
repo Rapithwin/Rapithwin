@@ -17,7 +17,7 @@ I'm a passionate software developer and I use Flutter as my main framework. I al
 - Web and PWA development with React and Flutter
 
 # Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir_hkhn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20213881) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rapithwin)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir_hkhn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20213881)
 [![X](https://img.shields.io/badge/Telegram-%2329a9eb?logo=Telegram&logoColor=white)](https://t.me/Amirhkhn)
 
 # Tech Stack:
@@ -26,6 +26,8 @@ I'm a passionate software developer and I use Flutter as my main framework. I al
 ![CSS](https://img.shields.io/badge/CSS-%23264de4.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23121011.svg?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-%2329a9eb.svg?style=for-the-badge&logo=react&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rapithwin&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
